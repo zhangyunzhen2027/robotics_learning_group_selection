@@ -33,6 +33,8 @@ learn from `(observation, action)` pairs only. Under that budget, do as well as 
 can. There is no single required algorithm: explain what you tried, how you define
 “good”, and the trade-offs you see.
 
+Even if you fail, **don't worry**, that happens a lot of time in research. Summary why you fail, what you have learned from this failure and what you try to solve this problem is what we treasure.
+
 Organizers may re-run your policy on held-out scenarios (different layouts, more
 blocks, noise, shorter horizons). **Do not hard-code test targets, obstacle layouts,
 or scenario lists.**
