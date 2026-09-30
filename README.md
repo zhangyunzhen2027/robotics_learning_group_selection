@@ -1,6 +1,6 @@
 # Robot Learning Project Selection Task
 
-A 24-hour mini project for undergraduate robot-learning applicants.
+A mini project for undergraduate robot-learning applicants.
 
 ## Setup
 
@@ -9,15 +9,13 @@ No GPU or local simulator is required. Google Colab is the intended interface.
 Open `colab/robot_learning_selection.ipynb`, upload this folder, and run the notebook
 cells to reproduce the public metrics.
 
-You may use Chinese or English and may use online resources / AI assistants.
-Your write-up must include a short **related work** section (see `README_submission.md`):
-what others have done on similar problems, and what that suggested to you here.
+You may use Chinese or English at your preference and may use online resources / AI assistants.
 
-## Submission (24 hours)
+## Submission (Deadline: 10/8)
 
 - Your code (typically `src/policy.py` and any helpers you add)
-- Completed `README_submission.md` (including related work)
-- One figure you think best supports your write-up
+- Record a video presentation following the instruction of `README_submission.md`
+- Any Demo if possible that you think it's helpful for our evaluation
 
 ## Task
 
