@@ -1,20 +1,25 @@
 # Submission
 
-Keep this short (roughly 1–2 pages). Figures can live in the notebook or as a separate image file.
+A recorded video presentation is required (15-20minutes)
 
-## 1. What does “good” mean for you?
+## 1. Show your demos
+What you get? Show your code and demo. Tune the code and see the results. It's alright to use AI assistant with your code, but you have to understand the principle.
+
+## 2. What does “good” mean for you?
 
 Which metrics did you use, and why? How did your approach compare to the baseline on those metrics?
 
-## 2. Related work (required)
 
-Find **2–4** papers, blog posts, or course notes that are **relevant to your approach**
-(not a generic “robot learning survey”). For each item: full citation (or URL + title),
-one sentence on **what they did**, and one sentence on **what you took from it** for
+## 3. Related work
+
+Find at least **3** papers, blog posts, or course notes that are **relevant to your approach**
+(not a generic “robot learning survey”). For each item: a short introduction on **what they did** and **what you took from it** for
 *this* task (even if you did not implement their method fully).
 
 We care whether you can connect a small env to existing ideas — not whether you cite
 the “right” famous paper.
+
+Remember, this task is an open question. There's **no** only one right way.
 
 ## 3. A result you are not happy with
 
