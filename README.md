@@ -2,6 +2,8 @@
 
 A mini project for undergraduate robot-learning applicants.
 
+There will be two phases. Phase A is a recorded presentation for this provided task as shown below. Phase B is a more detailed face-to-face interview, introduction to our projects and possible group roles which will follow up if you pass Phase A.
+
 ## Setup
 
 No GPU or local simulator is required. Google Colab is the intended interface.
@@ -52,3 +54,8 @@ The evaluator reports:
 - If a step would enter a block, the robot **does not move** (collision counted)
 - Demonstrations: grid-based expert with **action noise**
 - Observations may include small noise during evaluation
+
+## Pay attention
+- we don't answer related tech question such as "there's a bug, I can't fix it", "I don't have time to do this task, Could you give me more time" or "I can't set up the environment."
+- When you face a problem, you may search the solution online, ask your favorite AI agent, or try to solve it by your own. If you really can't solve it, post the question in the group chat. We will answer it as quickly if it's really something beyond your ability.
+- Try your best! We don't care about your background, we care about your attitude and effort. 
